@@ -18,3 +18,5 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 - Mt fault on triangle part 2401 41 needs repair before release — [27390_germannbridge_part_2401_41_weld_fault_20260228_061157.jpg]
   <a href="27390_germannbridge_part_2401_41_weld_fault_20260228_061157.jpg"><img src="27390_germannbridge_part_2401_41_weld_fault_20260228_061157.jpg" width="100" /></a>
+
+- 📸 Photo: 27390_germannbridge_part_2401_41_weld_fault_20260228_061157.jpg | Part: Triangle 2401-41 | Defect: MT fault — large irregular void/crater at weld start/stop point. Indicates inadequate fill, possible porosity or lack of fusion at weld termination. Uneven bead profile with spatter visible near fault zone. Coarse grinding marks on surrounding base metal. ❌ HOLD — Repair required before release. NDT re-check (MT) mandatory after repair.
