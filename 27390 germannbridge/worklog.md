@@ -23,3 +23,5 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 - Not good for mt testing , need touchup and grinding before relaqe , part 2401-41 triangle structure — [weld_porosity_uneven_bead_not_ready_mt_20260228_062834.jpg]
   <a href="weld_porosity_uneven_bead_not_ready_mt_20260228_062834.jpg"><img src="weld_porosity_uneven_bead_not_ready_mt_20260228_062834.jpg" width="100" /></a>
+
+- Part 2401-41 triangle structure — weld NOT ready for MT or re-lacquer. Defects observed: widespread porosity along entire weld length, highly irregular/lumpy bead profile, potential cold lap/lack of fusion at lower sections, minor spatter. Surface too rough and porous for reliable MT testing — false indications risk. Touchup, grinding and re-weld required before MT inspection and re-coating. Photo: weld_porosity_uneven_bead_not_ready_mt_20260228_062834.jpg
