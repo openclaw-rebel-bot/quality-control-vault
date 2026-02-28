@@ -28,3 +28,5 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 - [thermal_cut_edge_heavy_dross_on_steel_plate_20260228_062904.jpg]
   <a href="thermal_cut_edge_heavy_dross_on_steel_plate_20260228_062904.jpg"><img src="thermal_cut_edge_heavy_dross_on_steel_plate_20260228_062904.jpg" width="100" /></a>
+
+- 📸 Photo: thermal_cut_edge_heavy_dross_on_steel_plate_20260228_062904.jpg | No part number specified. Thermal cut edge on steel plate showing severe dross/slag accumulation along lower and middle sections, with uneven striations and rough cut quality. Adjacent metal surface shows heavy rust and oxidation. No welds present. Edge is NOT suitable for welding as-is — requires grinding/cleaning to remove dross before fit-up or welding. No coating present. Status: ❌ HOLD — grind/clean cut edge before proceeding.
