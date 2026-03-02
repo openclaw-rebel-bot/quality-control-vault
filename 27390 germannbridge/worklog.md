@@ -45,3 +45,5 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 ### General
 
+
+- Part BW08 / H1 (trapezoidal plate, ref 95780) — Holes drilled incorrectly, not according to measurement. Dimensional non-conformance confirmed with measuring tape on-site. Component on HOLD — redrilling required before release. Photo: incorrectly_drilled_holes_on_plate_20260302_141700.jpg
