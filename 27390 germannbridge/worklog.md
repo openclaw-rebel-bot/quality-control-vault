@@ -53,6 +53,8 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 ### Welding
 
+- Fillet weld — bad weld quality identified. Defects: (1) Excessive spatter on base metal / vertical plate, (2) Irregular & uneven weld bead profile, (3) Potential underlying defects suspected: porosity, slag inclusion, undercut, lack of fusion. Action required: grind weld, then MT before release. Photo: bad_weld_spatter_irregular_profile_p27390_20260303_140229.jpg
+
 ### Coating / Galva
 
 ### NDT
