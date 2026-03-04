@@ -64,3 +64,18 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 ### General
 
+
+---
+## 04/03/2026
+
+### Welding
+
+- Dit is een defzct voor germanbridges, te veel las — [germannbridge_excessive_fillet_weld_20260304_105853.jpg]
+  <a href="photos/germannbridge_excessive_fillet_weld_20260304_105853.jpg"><img src="photos/germannbridge_excessive_fillet_weld_20260304_105853.jpg" width="100" /></a>
+
+### Coating / Galva
+
+### NDT
+
+### General
+
