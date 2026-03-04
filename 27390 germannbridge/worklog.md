@@ -73,6 +73,8 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 - Dit is een defzct voor germanbridges, te veel las — [germannbridge_excessive_fillet_weld_20260304_105853.jpg]
   <a href="photos/germannbridge_excessive_fillet_weld_20260304_105853.jpg"><img src="photos/germannbridge_excessive_fillet_weld_20260304_105853.jpg" width="100" /></a>
 
+- 📸 Foto: germannbridge_excessive_fillet_weld_20260304_105853.jpg — Overmatig lasmetaal depositie op fillet weld. Te convexe en overmatige lasbalk (te veel las). Onregelmatig profiel + minor spatter op basismateriaal. Geen coating aanwezig. Actie: slijpen tot correct a-maat profiel, daarna VT/MT controle voor vrijgave.
+
 ### Coating / Galva
 
 ### NDT
