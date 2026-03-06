@@ -32,3 +32,6 @@
 
 ### General
 
+
+- [User_8419669675] Wat vind je van deze verffout — [qc_photo_20260306_150042.jpg]
+  <a href="photos/qc_photo_20260306_150042.jpg"><img src="photos/qc_photo_20260306_150042.jpg" width="100" /></a>
