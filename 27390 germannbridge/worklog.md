@@ -81,3 +81,18 @@ Action required: On-site repair + NDT re-inspection (VT mandatory, MT/PT recomme
 
 ### General
 
+
+---
+## 06/03/2026
+
+### Welding
+
+### Coating / Galva
+
+### NDT
+
+- [Arne] [germannbridge_27390_block_height_98mm_20260306_042418.jpg]
+  <a href="photos/germannbridge_27390_block_height_98mm_20260306_042418.jpg"><img src="photos/germannbridge_27390_block_height_98mm_20260306_042418.jpg" width="100" /></a>
+
+### General
+
